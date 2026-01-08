@@ -68,3 +68,4 @@ def main_game():
 # Jalankan game
 if __name__ == "__main__":
     main_game()
+# The End
